@@ -1,0 +1,42 @@
+img {
+	width: 200px; 
+	text-align: center; 
+	border: 2px solid #2855af; 
+	margin-top: 69px; 
+
+}
+h1 {
+	font-size: 50px; 
+	margin-top: 2px; 
+}
+.contentAbout {
+	text-align: center; 
+	width: 70%;
+	height: 100%;
+	margin: 0px auto;
+	vertical-align: center; 
+}
+.title {
+	margin-left: 60px; 
+	font-size: 30px;
+	text-decoration-line: underline; 
+	color: #2855af;;
+}
+.group {
+	text-align: left;
+}
+.text {
+	margin-left: 60px;
+	font-size: 20px; 
+}
+.textList {
+	margin-left: 60px; 
+	font-szie: 20px; 
+}
+li {
+	font-size: 20px; 
+}
+
+html {
+	background-color: #bcbcbc;
+}
